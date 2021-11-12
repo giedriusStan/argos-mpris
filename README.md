@@ -5,7 +5,8 @@ This script is meant to be used alongside with [Argos GNOME Shell extension](htt
 ### Features
 **Songs:**
 
-![Screenshot from 2021-11-12 13-27-19](https://user-images.githubusercontent.com/48915360/141467195-5e43c79b-5964-4f51-9a51-ff92d90bd000.png)
+
+![Screenshot from 2021-11-12 13-40-05](https://user-images.githubusercontent.com/48915360/141468742-ca6a9d81-1976-4d4f-a1e1-9a7f6aaef084.png)
 * Show Artist and song name in the system tray.
 * Control playback via menu options upon clicking the tray icon.
 * Show song name, album and artist on the tray icon.
