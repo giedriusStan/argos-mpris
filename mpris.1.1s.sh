@@ -22,7 +22,7 @@ fi
 if [[ $ARTIST == "" ]]; then
 	TITLE="$ALBUM - $SONG_TITLE | iconName=media-tape"
 else
-	TITLE="$ARTIST - $SONG_TITLE | iconName=media-playback-pause"
+	TITLE="$ARTIST - $SONG_TITLE | iconName=folder-music-symbolic"
 fi
 
 echo "$TITLE"
